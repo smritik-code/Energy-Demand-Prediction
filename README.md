@@ -2,7 +2,6 @@
 
 This project implements a hybrid **CNN–LSTM–Transformer** model to forecast hourly electricity demand in New York City. The model leverages historical load data, weather information (temperature and humidity), and calendar features (holidays) to provide accurate short-term demand predictions.
 
----
 
 ## Features
 
@@ -15,7 +14,6 @@ This project implements a hybrid **CNN–LSTM–Transformer** model to forecast 
 * Evaluation metrics including **MAE (Mean Absolute Error)**.
 * Visualization of predictions vs. actuals, error analysis, and scatter comparisons.
 
----
 
 ## Dataset
 
@@ -25,7 +23,6 @@ This project implements a hybrid **CNN–LSTM–Transformer** model to forecast 
 
 All time series are aligned to the **America/New_York** timezone.
 
----
 
 ## Results
 
