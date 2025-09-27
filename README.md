@@ -28,3 +28,5 @@ All time series are aligned to the **America/New_York** timezone.
 
 * The hybrid model achieves **test MAE ≈ 60 MW**, significantly improving over baseline LSTM and CNN-only models.
 * Visualizations show strong alignment of predictions with actual demand, with errors primarily during peak transitions.
+
+<img width="1796" height="498" alt="image" src="https://github.com/user-attachments/assets/db7a42e1-4ec3-4d13-aba8-b806b6baad29" />
